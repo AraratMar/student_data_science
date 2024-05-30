@@ -9,6 +9,8 @@
 [6. Выводы](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g#scrollTo=42289889-bd57-434e-9637-d3e354756316/tree/main/homework/README.md#Выводы)
 [7. Проект](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g#scrollTo=42289889-bd57-434e-9637-d3e354756316/tree/main/homework/README.md#Проект)
 
+
+
 ### Описание проекта
 В нашем распоряжении будет база резюме, выгруженная с сайта поиска вакансий hh.ru.
 
