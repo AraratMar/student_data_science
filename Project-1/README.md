@@ -7,7 +7,7 @@
 [4. Этапы работы над проектом](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g/tree/main/homework/README.md#Этапы_работы_над_проектом)  
 [5. Результат](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g/tree/main/homework/README.md#Результат)  
 [6. Выводы](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g/tree/main/homework/README.md#Выводы)
-[7. Проект](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g/tree/main/homework/README.md)
+[7. Проект](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g/tree/main/homework/README.md#Проект)
 
 ### Описание проекта
 В нашем распоряжении будет база резюме, выгруженная с сайта поиска вакансий hh.ru.
@@ -53,6 +53,6 @@
 Срочно выучить англиский!!!
 
 ### Проект
-[Проект]()
+[Проект](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g/tree/main/homework/README.md#Проект)
 
 :arrow_up:[к оглавлению](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g/tree/main/homework/README.md#Оглавление)
