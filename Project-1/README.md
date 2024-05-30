@@ -1,7 +1,7 @@
 # PROJECT-1. Анализ резюме из HeadHunter. Необходимо преобразовать, исследовать и очистить данные.
 
 ## Оглавление
-[1. Описание проекта](https://skillfactory.itresume.ru/problems/skillfactory-problem-1086?user=6a5b7292961f3d73dca00d63ce2b2c06/tree/main/homework/README.md#Описание_проекта)  
+[1. Описание проекта](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g#scrollTo=42289889-bd57-434e-9637-d3e354756316/tree/main/homework/README.md#Описание_проекта)  
 [2. Какой кейс решаем?](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g/tree/main/homework/README.md#Какой_кейс_решаем?)  
 [3. Краткая информация о данных](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g/tree/main/homework/README.md#Краткая_информация_о_данных)  
 [4. Этапы работы над проектом](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g/tree/main/homework/README.md#Этапы_работы_над_проектом)  
