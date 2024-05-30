@@ -2,13 +2,12 @@
 
 ## Оглавление
 [1. Описание проекта](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g#scrollTo=42289889-bd57-434e-9637-d3e354756316/tree/main/homework/README.md#Описание_проекта)  
-[2. Какой кейс решаем?](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g/tree/main/homework/README.md#Какой_кейс_решаем?)  
-[3. Краткая информация о данных](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g/tree/main/homework/README.md#Краткая_информация_о_данных)  
-[4. Этапы работы над проектом](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g/tree/main/homework/README.md#Этапы_работы_над_проектом)  
-[5. Результат](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g/tree/main/homework/README.md#Результат)  
-[6. Выводы](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g/tree/main/homework/README.md#Выводы)
-
-[7. Проект](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g/tree/main/homework/README.md#Проект)
+[2. Какой кейс решаем?](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g#scrollTo=42289889-bd57-434e-9637-d3e354756316/tree/main/homework/README.md#Какой_кейс_решаем?)  
+[3. Краткая информация о данных](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g#scrollTo=42289889-bd57-434e-9637-d3e354756316/tree/main/homework/README.md#Краткая_информация_о_данных)  
+[4. Этапы работы над проектом](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g#scrollTo=42289889-bd57-434e-9637-d3e354756316/tree/main/homework/README.md#Этапы_работы_над_проектом)  
+[5. Результат](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g#scrollTo=42289889-bd57-434e-9637-d3e354756316/tree/main/homework/README.md#Результат)  
+[6. Выводы](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g#scrollTo=42289889-bd57-434e-9637-d3e354756316/tree/main/homework/README.md#Выводы)
+[7. Проект](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g#scrollTo=42289889-bd57-434e-9637-d3e354756316/tree/main/homework/README.md#Проект)
 
 ### Описание проекта
 В нашем распоряжении будет база резюме, выгруженная с сайта поиска вакансий hh.ru.
@@ -17,7 +16,7 @@
 
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Наша задача состоит в преобразовнии, исследовании и очистки данных выгружение с сайта поиска вакансий hh.ru!
 
-:arrow_up:[к оглавлению](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g/tree/main/homework/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g#scrollTo=42289889-bd57-434e-9637-d3e354756316/tree/main/homework/README.md#Оглавление)
 
 
 ### Какой кейс решаем?
@@ -54,6 +53,6 @@
 Срочно выучить англиский!!!
 
 ### Проект
-[Проект](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g/tree/main/homework/README.md#Проект)
+[Проект](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g#scrollTo=42289889-bd57-434e-9637-d3e354756316/tree/main/homework/README.md#Проект)
 
-:arrow_up:[к оглавлению](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g/tree/main/homework/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://colab.research.google.com/drive/1T8nwxjlChxG77mTstgh7Tbo3HYBdFO5g#scrollTo=42289889-bd57-434e-9637-d3e354756316/tree/main/homework/README.md#Оглавление)
