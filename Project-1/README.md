@@ -1,13 +1,13 @@
 # PROJECT-1. Анализ резюме из HeadHunter. Необходимо преобразовать, исследовать и очистить данные.
 
 ## Оглавление
-[1. Описание проекта](https://github.com/AraratMar/student_data_science/blob/main/Project-1/Project-1.ipynb/tree/main/homework/README.md#Описание_проекта)  
-[2. Какой кейс решаем?](https://github.com/AraratMar/student_data_science/blob/main/Project-1/Project-1.ipynb/tree/main/homework/README.md#Какой_кейс_решаем?)  
+[1. Описание проекта](https://github.com/AraratMar/student_data_science/blob/tree/main/homework/README.md#Описание_проекта)  
+[2. Какой кейс решаем?](https://github.com/AraratMar/student_data_science/blob/tree/main/homework/README.md#Какой_кейс_решаем?)  
 [3. Краткая информация о данных](https://github.com/AraratMar/student_data_science/blob/main/Project-1/Project-1.ipynb/tree/main/homework/README.md#Краткая_информация_о_данных)  
-[4. Этапы работы над проектом](https://github.com/AraratMar/student_data_science/blob/main/Project-1/Project-1.ipynb/tree/main/homework/README.md#Этапы_работы_над_проектом)  
-[5. Результат](https://github.com/AraratMar/student_data_science/blob/main/Project-1/Project-1.ipynb/tree/main/homework/README.md#Результат)  
+[4. Этапы работы над проектом](https://github.com/AraratMar/student_data_science/blob/tree/main/homework/README.md#Этапы_работы_над_проектом)  
+[5. Результат](https://github.com/AraratMar/student_data_science/blob/tree/main/homework/README.md#Результат)  
 [6. Выводы](https://github.com/AraratMar/student_data_science/blob/main/Project-1/Project-1.ipynb/tree/main/homework/README.md#Выводы)
-[7. Проект](https://github.com/AraratMar/student_data_science/blob/main/Project-1/Project-1.ipynb/tree/main/homework/README.md#Проект)
+[7. Проект](https://github.com/AraratMar/student_data_science/blob/tree/main/homework/README.md#Проект)
 
 
 
@@ -18,7 +18,7 @@
 
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Наша задача состоит в преобразовнии, исследовании и очистки данных выгружение с сайта поиска вакансий hh.ru!
 
-:arrow_up:[к оглавлению]https://github.com/AraratMar/student_data_science/blob/main/Project-1/Project-1.ipynb/tree/main/homework/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/AraratMar/student_data_science/blob/tree/main/homework/README.md#Оглавление)
 
 
 ### Какой кейс решаем?
@@ -55,6 +55,6 @@
 Срочно выучить англиский!!!
 
 ### Проект
-[Проект](https://github.com/AraratMar/student_data_science/blob/main/Project-1/Project-1.ipynb/tree/main/homework/README.md#Проект)
+[Проект](https://github.com/AraratMar/student_data_science/blob/tree/main/homework/README.md#Проект)
 
-:arrow_up:[к оглавлению](https://github.com/AraratMar/student_data_science/blob/main/Project-1/Project-1.ipynb/tree/main/homework/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/AraratMar/student_data_science/blob/tree/main/homework/README.md#Оглавление)
